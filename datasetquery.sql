@@ -2,7 +2,7 @@ SELECT
   name,
   count
 FROM
-  `babynames.names_2014`
+  `babynames.names2014`
 WHERE
   gender = 'M'
 ORDER BY
